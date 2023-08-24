@@ -7,7 +7,7 @@
 - 🎓 Cursando bootcamp Santander Fullstack Java+Angular.
 - 🎓 Cursando bootcamp Cubos Academy Desenvolvimento de Software com foco em Back-End.
 - 🎓 Cursando HTML5, CSS3 e Python 3 pela plataforma curso em vídeo.
-- ⚡ Fun fact: Metida a master chefe, apaixonada por psicologia e áreas humanas, sou artesã e amo artes de uma forma geral. Mãe de pets e de plantas, fã das animações dos Studios Ghibli e de Kimetsu no Yaiba.
+- ⚡ Curiosidades: Metida a master chefe, apaixonada por psicologia e áreas humanas, sou artesã e amo artes de uma forma geral. Mãe de pets e de plantas, fã das animações dos Studios Ghibli e de Kimetsu no Yaiba.
 
 <div>
   <a href="https://github.com/pgabrielapereira">
