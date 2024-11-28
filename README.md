@@ -4,8 +4,6 @@
 - 🔭 Estou em busca do meu primeiro sim na área da tecnologia.
 - 🎓 Desenvolvedora em Back-End formada pela {reprograma}.
 - 🎓 Estou cursando Gestão de Recursos Humanos na Universidade Estácio de Sá.
-- 🎓 Cursando bootcamp Santander Fullstack Java+Angular.
-- 🎓 Cursando bootcamp Cubos Academy Desenvolvimento de Software com foco em Back-End.
 - 🎓 Cursando HTML5, CSS3 e Python 3 pela plataforma curso em vídeo.
 - ⚡ Curiosidades: Metida a master chefe, apaixonada por psicologia e áreas humanas, sou artesã e amo artes de uma forma geral. Mãe de pets e de plantas, fã das animações dos Studios Ghibli e de Kimetsu no Yaiba.
 
